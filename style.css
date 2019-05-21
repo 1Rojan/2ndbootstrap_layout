@@ -1,0 +1,12 @@
+body{
+    font-family: Arial , Helvetica , Verdana , sans-serif!important;
+   
+}
+
+.navbar-gradients{
+    background: linear-gradient(#f8f8f8,#c6c6c6);
+}
+
+.fa-registered{
+    font-size: 7px;
+}
